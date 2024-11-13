@@ -67,18 +67,6 @@
 }
 
 .otherNews1 img {
-    height: auto;
+    height: 70%;
     width: 100%
-}
-
-.otherNews2 {
-    border-radius: 10px;
-    background-color: #f0f0f0;
-    width: 30%;
-    padding: 16px;
-}
-
-.otherNews2 img {
-    height: 53%;
-    width: 100%;
 }
